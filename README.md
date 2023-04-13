@@ -1,2 +1,2 @@
 # coolwaves
-just a page of ripples
+just a page of ripples.
