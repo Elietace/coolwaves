@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T21:00:58.260Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MOT9AqIRXGsiSZ_RnBJk" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T22:16:42.958Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="YW501h7YegOmN74adgrC" version="21.3.3" type="github">
   <diagram name="Page-1" id="QNV8CzcGb6Eklt75pDvC">
-    <mxGraphModel dx="1687" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="483" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,10 @@
             <mxPoint x="430" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="36px62SYUdjgXMITMXes-1" value="Front page to Cool Waves" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
+        <mxCell id="a_3-3Ku9Z6QaK7qQgcsz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" edge="1" parent="1" source="36px62SYUdjgXMITMXes-1" target="a_3-3Ku9Z6QaK7qQgcsz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36px62SYUdjgXMITMXes-1" value="&lt;u&gt;Front page to Cool Waves&amp;nbsp;&lt;br&gt;&lt;br&gt;css&lt;br&gt;&lt;ul&gt;&lt;li&gt;links to pages&lt;/li&gt;&lt;li&gt;banner background&lt;/li&gt;&lt;li&gt;footer&lt;/li&gt;&lt;/ul&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
           <mxGeometry x="320" y="50" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="S-WtqASxiqDXwWrtYMy8-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" edge="1">
@@ -25,8 +28,11 @@
         <mxCell id="S-WtqASxiqDXwWrtYMy8-3" value="About page&lt;hr&gt;explain what the page is about" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
           <mxGeometry x="660" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a_3-3Ku9Z6QaK7qQgcsz-1" value="soundtrack system" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+        <mxCell id="a_3-3Ku9Z6QaK7qQgcsz-1" value="soundtrack system&lt;br&gt;javascript&lt;br&gt;use spotify" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
           <mxGeometry x="370" y="369.9999999999998" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_3-3Ku9Z6QaK7qQgcsz-2" value="contact page&lt;br&gt;&lt;ul&gt;&lt;li&gt;fake contact&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="125" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
